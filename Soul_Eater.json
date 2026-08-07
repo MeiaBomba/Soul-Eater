@@ -1,0 +1,41 @@
+{
+  "title": "Soul Eater",
+  "description": "Maka é uma Artesã de Armas, determinada a transformar seu parceiro, uma foice viva chamada Soul Eater, em uma poderosa foice da morte – a arma definitiva da própria Morte! Encarregados da tarefa de coletar e devorar as almas contaminadas de noventa e nove humanos e uma bruxa, Maka e seus colegas Artesãos se esforçam para dominar suas armas enquanto enfrentam os bizarros e perigos do submundo.",
+  "artist": "Atsushi Ohkubo",
+  "author": "Atsushi Ohkubo",
+  "cover": "https://mangadex.org/covers/53ef1720-7a5d-40ad-90b0-2f9ca0a1ab01/6163c521-db05-4b23-9642-862d55fe9787.jpg",
+  "chapters": {
+    "00.2": {
+      "title": "",
+      "last_updated": "1786125765",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/na7kladxmy8"
+      },
+      "volume": "01"
+    },
+    "00.3": {
+      "title": "",
+      "last_updated": "1786125769",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/vj4j2eqoe78"
+      },
+      "volume": "01"
+    },
+    "00.1": {
+      "title": "",
+      "last_updated": "1786125771",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/5xy2vqbz87l"
+      },
+      "volume": "01"
+    },
+    "001": {
+      "title": "",
+      "last_updated": "1786125795",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/wl7lja3zoyx"
+      },
+      "volume": "01"
+    }
+  }
+}
